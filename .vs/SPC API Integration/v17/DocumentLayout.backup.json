@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\entities\\drugstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\entities\\drugstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\addstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\addstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\entities\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\entities\\drug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\controllers\\pharmacycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\controllers\\pharmacycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\entities\\drugorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\entities\\drugorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\entities\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\entities\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\entities\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\addpharmacydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\addpharmacydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\controllers\\drugservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\controllers\\drugservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\controllers\\stockservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\controllers\\stockservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\migrations\\20250617171038_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\migrations\\20250617171038_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\drugsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\drugsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\placeorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\placeorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\migrations\\20250614073549_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\migrations\\20250614073549_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\migrations\\20250615153640_try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\migrations\\20250615153640_try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\updatestockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\updatestockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\addsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\addsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\models\\updatesupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\models\\updatesupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|c:\\users\\hashi\\source\\repos\\spc api integration\\spc api integration\\migrations\\20250617171548_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A6DD1FA-513B-452C-AA10-65E2616EE3A6}|SPC API Integration\\SPC API Integration.csproj|solutionrelative:spc api integration\\migrations\\20250617171548_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddPharmacyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\AddPharmacyDTO.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\AddPharmacyDTO.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\AddPharmacyDTO.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\AddPharmacyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:24:50.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Program.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Program.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Program.cs",
+              "RelativeToolTip": "SPC API Integration\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T03:58:20.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PharmacyController.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Controllers\\PharmacyController.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Controllers\\PharmacyController.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Controllers\\PharmacyController.cs",
+              "RelativeToolTip": "SPC API Integration\\Controllers\\PharmacyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:26:30.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrugStock.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\DrugStock.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\Entities\\DrugStock.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\DrugStock.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\Entities\\DrugStock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:11:06.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "SPC API Integration\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:58:27.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Drug.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\Drug.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\Entities\\Drug.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\Drug.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\Entities\\Drug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:53:18.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DrugOrder.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\DrugOrder.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\Entities\\DrugOrder.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\DrugOrder.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\Entities\\DrugOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:40:43.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStockDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\AddStockDTO.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\AddStockDTO.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\AddStockDTO.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\AddStockDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:51:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\Supplier.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\Entities\\Supplier.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\Supplier.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\Entities\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T05:49:45.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\Entities\\Pharmacy.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\Entities\\Pharmacy.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\Entities\\Pharmacy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T16:21:43.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Controllers\\StockServicesController.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Controllers\\StockServicesController.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Controllers\\StockServicesController.cs",
+              "RelativeToolTip": "SPC API Integration\\Controllers\\StockServicesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T14:01:41.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DrugServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Controllers\\DrugServiceController.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Controllers\\DrugServiceController.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Controllers\\DrugServiceController.cs",
+              "RelativeToolTip": "SPC API Integration\\Controllers\\DrugServiceController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:07:25.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250617171548_second.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Migrations\\20250617171548_second.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Migrations\\20250617171548_second.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Migrations\\20250617171548_second.cs",
+              "RelativeToolTip": "SPC API Integration\\Migrations\\20250617171548_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:15:48.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250617171038_Final.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Migrations\\20250617171038_Final.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Migrations\\20250617171038_Final.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Migrations\\20250617171038_Final.cs",
+              "RelativeToolTip": "SPC API Integration\\Migrations\\20250617171038_Final.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:10:38.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlaceOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\PlaceOrderDTO.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\PlaceOrderDTO.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\PlaceOrderDTO.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\PlaceOrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T15:05:49.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DrugSearchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\DrugSearchDTO.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\DrugSearchDTO.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\DrugSearchDTO.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\DrugSearchDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:54:37.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250614073549_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Migrations\\20250614073549_initial migration.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Migrations\\20250614073549_initial migration.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Migrations\\20250614073549_initial migration.cs",
+              "RelativeToolTip": "SPC API Integration\\Migrations\\20250614073549_initial migration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:08:24.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\appsettings.json",
+              "RelativeDocumentMoniker": "SPC API Integration\\appsettings.json",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\appsettings.json",
+              "RelativeToolTip": "SPC API Integration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T15:09:58.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250615153640_Try.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Migrations\\20250615153640_Try.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Migrations\\20250615153640_Try.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Migrations\\20250615153640_Try.cs",
+              "RelativeToolTip": "SPC API Integration\\Migrations\\20250615153640_Try.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:36:40.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "SPC API Integration\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:38:18.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateStockDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\UpdateStockDTO.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\UpdateStockDTO.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\UpdateStockDTO.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\UpdateStockDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:53:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateSupplierDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\UpdateSupplierDTO.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\UpdateSupplierDTO.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\UpdateSupplierDTO.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\UpdateSupplierDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:49:48.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddSupplierDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\AddSupplierDTO.cs",
+              "RelativeDocumentMoniker": "SPC API Integration\\Models\\AddSupplierDTO.cs",
+              "ToolTip": "C:\\Users\\hashi\\source\\repos\\SPC API Integration\\SPC API Integration\\Models\\AddSupplierDTO.cs",
+              "RelativeToolTip": "SPC API Integration\\Models\\AddSupplierDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T08:16:04.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
